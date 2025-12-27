@@ -10,10 +10,7 @@
 - Excel (Power Query, Pivot Tables)
 
 ## 📌 Featured Projects
-- Sales Dashboard (Power BI): https://github.com/smohammedsayed/REPO1
-- Churn Analysis (Python): https://github.com/smohammedsayed/REPO2
-- SQL Case Studies: https://github.com/smohammedsayed/REPO3
-
+- outbound-end-end-cycle (Python | Automation |SQL | Power BI): https://github.com/smohammedsayed/outbound-end-end-cycle
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/sayed-moussa
 - Email: s.mohmmed.sayed@gmail.com

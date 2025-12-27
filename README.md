@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**smohammedsayed/smohammedsayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sayed 👋
 
-Here are some ideas to get you started:
+📊 Data Analyst | Python | SQL | Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- SQL (Joins, CTEs, Window Functions)
+- Python (pandas, numpy, matplotlib)
+- Power BI (DAX, Dashboards)
+- Excel (Power Query, Pivot Tables)
+
+## 📌 Featured Projects
+- Sales Dashboard (Power BI): https://github.com/smohammedsayed/REPO1
+- Churn Analysis (Python): https://github.com/smohammedsayed/REPO2
+- SQL Case Studies: https://github.com/smohammedsayed/REPO3
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/sayed-moussa
+- Email: s.mohmmed.sayed@gmail.com
